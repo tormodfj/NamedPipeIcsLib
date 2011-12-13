@@ -1,0 +1,2 @@
+Simple wrapper for the .NET named pipe API. Provides a client/server model for
+inter-process communication.
