@@ -18,6 +18,7 @@ namespace NamedPipeIpcLib
 		public NamedPipeClient(string pipeName)
 			: base(pipeName)
 		{
+
 		}
 
 		/// <summary>
